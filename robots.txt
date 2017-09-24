@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://ci8328.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
